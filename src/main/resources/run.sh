@@ -1,0 +1,1 @@
+java -jar target/static-imager-jar-with-dependencies.jar
